@@ -171,3 +171,4 @@ Temporary Items
 **/*.log
 **/*.jpg
 scripts/open-platform-face/*.jar
+scp2prod.sh
